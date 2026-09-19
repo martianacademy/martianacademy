@@ -6,6 +6,10 @@ on:
     paths:
       - 'remotion-demo/**'
       - '.github/workflows/render-remotion-demo.yml'
+  pull_request:
+    paths:
+      - 'remotion-demo/**'
+      - '.github/workflows/render-remotion-demo.yml'
   workflow_dispatch:
 
 jobs:
