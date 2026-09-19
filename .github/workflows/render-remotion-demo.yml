@@ -30,8 +30,14 @@ jobs:
         with:
           node-version: 20
 
+      - name: Show versions
+        run: |
+          node --version
+          npm --version
+          cat package.json
+
       - name: Install dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps --no-audit --no-fund
 
       - name: Render MP4
         run: npm run render
