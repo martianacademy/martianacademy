@@ -1,42 +1,34 @@
 ### Hey, I'm Suru 👋
 
-Building the infrastructure for autonomous AI — agents that think, remember, and evolve.
+I build infrastructure for AI agents and the developer tools around them: coding agents, memory, and local-first
+inference. I also make Hinglish developer videos as **Martian Academy**.
 
----
+#### 🚀 Projects
 
-#### 🔭 What I'm working on
+| Project | What it is |
+|---------|------------|
+| [**Olympus Coder**](https://github.com/martianacademy/olympus-coder) | One desktop app for every ACP coding agent: Claude Code, Codex, Antigravity and more, with shared memory and parallel sub-sessions |
+| [**oly CLI**](https://github.com/martianacademy/olympus-coder-cli) | Standalone coding CLI and native ACP agent for cloud and local models (OpenRouter, Anthropic, Ollama, …) |
+| [**Phobos Stream**](https://github.com/martianacademy/phobos-stream) | Zero-VRAM video and image diffusion streaming engine (MLX / CUDA) |
+| [**ComfyUI-PhobosStream**](https://github.com/martianacademy/ComfyUI-PhobosStream) | ComfyUI nodes for Phobos Stream, listed in ComfyUI-Manager |
+| [**forkstate**](https://github.com/Forkscout/forkstate) | A fork that doesn't copy: mainnet state read on demand, writes kept in an overlay, many forks in one process |
+| [**Anvil DevNet**](https://github.com/martianacademy/anvil-devnet-ui) | A real block explorer and debugger for your local Anvil chain, a self-hosted Tenderly alternative |
+| [**web3-app-kit**](https://github.com/martianacademy/web3-app-kit) | Open-source wallet connection SDK for EVM, Solana and Bitcoin |
+| [**Cutline**](https://github.com/Forkscout/cutline) | In-browser video editor with built-in screen, camera and mic recording |
 
-- **Autonomous AI Agents** — self-evolving agents with persistent cognitive memory, multi-model routing, and budget-aware orchestration
-- **MCP Servers & Tooling** — Model Context Protocol infrastructure for agent memory, tool orchestration, and inter-agent communication
-- **AI Research Tools** — developer frameworks for building, testing, and deploying agentic systems
-- **Multi-Model Routing** — intelligent LLM provider switching across OpenRouter, Anthropic, Google, OpenAI, and Ollama
+#### 🛠 Stack
 
-#### 🚀 Active Projects
+`TypeScript` · `Node.js` · `React` · `Python` · `MLX` · `CUDA` · `Solidity` · `Foundry / Anvil` · `MCP` · `ACP`
 
-| Project | Description |
-|---------|-------------|
-| [**Forkscout**](https://github.com/martianacademy/forkscout) | Autonomous AI agent with persistent memory, multi-model routing, self-editing, sub-agent orchestration, and Telegram integration |
-| [**Forkscout Memory MCP**](https://github.com/martianacademy/forkscout-memory-mcp) | Standalone MCP server for persistent AI agent memory — knowledge graph, vector search, contradiction detection, confidence scoring |
+#### 🧠 Interests
 
-#### 🛠 Tech Stack
-
-`TypeScript` · `AI SDK v6` · `Bun` · `MCP` · `Docker` · `Node.js` · `Vercel AI SDK`
-
-#### 🧠 Focus Areas
-
-- Agentic AI architectures and self-improving systems
-- Persistent memory and knowledge graphs for AI agents
-- Model Context Protocol (MCP) ecosystem
-- Multi-provider LLM routing and cost optimization
-- Tool orchestration and sub-agent spawning patterns
-
-#### 🌱 Philosophy
-
-I believe the future of AI isn't just smarter models — it's agents with **memory**, **autonomy**, and the ability to **evolve**. Every tool I build moves toward that vision.
+- Memory-augmented model architectures: keeping memory separate from reasoning
+- Agent tooling: ACP, MCP, multi-agent orchestration
+- Local-first inference on Apple Silicon
+- EVM developer tooling
 
 ---
 
 <p align="center">
-  <a href="https://twitter.com/AcademyMartian">𝕏 Twitter</a> · 
-  <a href="https://github.com/martianacademy">GitHub</a>
+  <a href="https://x.com/AcademyMartian">𝕏 @AcademyMartian</a>
 </p>
