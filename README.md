@@ -12,11 +12,9 @@ I build infrastructure for autonomous AI agents and low-VRAM local inference —
 | [**PhobosStream**](https://github.com/martianacademy/phobos-stream) | Zero-VRAM video and image diffusion streaming engine (MLX · CUDA · ROCm · GGUF) |
 | [**ComfyUI-PhobosStream**](https://github.com/martianacademy/ComfyUI-PhobosStream) | ComfyUI nodes for PhobosStream, published on ComfyUI Registry |
 
-*Earlier EVM / Web3 tooling:* [**forkstate**](https://github.com/Forkscout/forkstate) · [**Anvil DevNet**](https://github.com/martianacademy/anvil-devnet-ui) · [**web3-app-kit**](https://github.com/martianacademy/web3-app-kit)
-
 #### 🛠 Stack
 
-`Python` · `TypeScript` · `C++17` · `MLX` · `CUDA / Triton` · `Node.js` · `React` · `Solidity` · `MCP` · `ACP`
+`Python` · `TypeScript` · `C++17` · `MLX` · `CUDA / Triton` · `Node.js` · `React` · `MCP` · `ACP`
 
 ---
 
